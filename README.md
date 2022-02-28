@@ -2,7 +2,7 @@
 A repository for showing my work to employers
 
 * Summarize the project and what problem it was solving.
-I was task to create a banking app that would calculate the interest rate with an initial deposit and without an initial deposit.
+<br>I was task to create a banking app that would calculate the interest rate with an initial deposit and without an initial deposit.
 
 * What did you do particularly well?
 
