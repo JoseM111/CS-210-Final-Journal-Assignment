@@ -1,0 +1,25 @@
+# ninja log v5
+602	658	1643814718623803926	AirgeadBanking	541b6064de3148a0
+1	602	1643814718565434993	CMakeFiles/AirgeadBanking.dir/src/main.cpp.o	82f0790fcbadbbf4
+2	77	1643821222445156359	CMakeFiles/AirgeadBanking.dir/src/modules/bank/Bank.cpp.o	ab144dd0d43bee63
+1	589	1643821222954462738	CMakeFiles/AirgeadBanking.dir/src/AirgeadBankingSource.cpp.o	80a69b888da1a2a6
+2	640	1643821223005802272	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+640	977	1643821223345970065	AirgeadBanking	ba011119bdbc348a
+2	752	1643822702462101603	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+752	828	1643822702546520306	AirgeadBanking	ba011119bdbc348a
+2	1337	1643822818957047080	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+1337	1432	1643822819058294213	AirgeadBanking	ba011119bdbc348a
+1	1218	1643823256857900121	CMakeFiles/AirgeadBanking.dir/src/AirgeadBankingSource.cpp.o	80a69b888da1a2a6
+1	1291	1643823256932547347	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+1291	1390	1643823257035321138	AirgeadBanking	ba011119bdbc348a
+2	1266	1643823374973620441	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+1266	1364	1643823375079127947	AirgeadBanking	ba011119bdbc348a
+1	1122	1643823482916138359	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+1122	1207	1643823483006719224	AirgeadBanking	ba011119bdbc348a
+1	935	1643823615256085386	CMakeFiles/AirgeadBanking.dir/src/AirgeadBankingSource.cpp.o	80a69b888da1a2a6
+2	997	1643823615320569418	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+998	1076	1643823615404136131	AirgeadBanking	ba011119bdbc348a
+3	3837	1643905464427790386	CMakeFiles/AirgeadBanking.dir/src/modules/bank/Bank.cpp.o	ab144dd0d43bee63
+2	4519	1643905465105354190	CMakeFiles/AirgeadBanking.dir/src/AirgeadBankingSource.cpp.o	80a69b888da1a2a6
+3	4591	1643905465176980271	CMakeFiles/AirgeadBanking.dir/src/modules/displayInterface/DisplayInterface.cpp.o	9d96b282a0fcca00
+4591	4994	1643905465585010662	AirgeadBanking	ba011119bdbc348a

@@ -1,0 +1,4 @@
+"/Users/josemartinez/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/josemartinez/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja "/Users/josemartinez/Desktop/SnHu/SEMESTER-3/CS-210-T3625 Programming/module-5/AirgeadBanking"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/josemartinez/Desktop/SnHu/SEMESTER-3/CS-210-T3625 Programming/module-5/AirgeadBanking/cmake-build-debug
